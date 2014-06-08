@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Planting</string>
+    <string name="title_activity_main">Planting</string>
+    <string name="google_maps_key">AIzaSyCy3kf7UVDaqxCk6TlhY4YTCX9Px7thIxI</string>
+</resources>

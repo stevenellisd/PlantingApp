@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Steve\AndroidStudioProjects\PlantingApp\app\build\pre-dexed\debug\classes-7ae460c51185e9fb7172dbb2a2bfff61d4c6816d.jar"
+        jar="C:\Users\Steve\AndroidStudioProjects\PlantingApp\build\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a"/>
+    <item
+        dex="C:\Users\Steve\AndroidStudioProjects\PlantingApp\app\build\pre-dexed\debug\classes-305445bdc9f30f5cba055f6d687ad70eea612046.jar"
+        jar="C:\Users\Steve\AndroidStudioProjects\PlantingApp\build\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Steve\AndroidStudioProjects\PlantingApp\app\build\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
